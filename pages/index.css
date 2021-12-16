@@ -1,55 +1,43 @@
 @import url("../vendor/normalize.css");
 @import url("../vendor/fonts/fonts.css");
-
 @import url("../blocks/page/page.css");
 @import url("../blocks/page/__container/page__container.css");
 @import url("../blocks/link/link.css");
-
 @import url("../blocks/header/header.css");
 @import url("../blocks/header/__logo/header__logo.css");
 @import url("../blocks/header/__lang-links/header__lang-links.css");
 @import url("../blocks/header/__lang-link/header__lang-link.css");
 @import url("../blocks/header/__lang-link/_active/header__lang-link_active.css");
-
 @import url("../blocks/content/content.css");
 @import url("../blocks/content/__section/content__section.css");
 @import url("../blocks/content/__section/_width/content__section_width_desktop.css");
 @import url("../blocks/content/__section/_width/content__section_width_laptop.css");
 @import url("../blocks/content/__section/_width/content__section_width_tablet.css");
 @import url("../blocks/content/__section/_width/content__section_width_mobile.css");
-
 @import url("../blocks/lead/lead.css");
 @import url("../blocks/lead/__title/lead__title.css");
 @import url("../blocks/lead/__subtitle/lead__subtitle.css");
 @import url("../blocks/lead/__image/lead__image.css");
 @import url("../blocks/lead/__caption/lead__caption.css");
-
 @import url("../blocks/intro/__title/intro__title.css");
 @import url("../blocks/intro/__text/intro__text.css");
 @import url("../blocks/intro/__list/intro__list.css");
 @import url("../blocks/intro/__list-item/_font-weight/intro__list-item_font-weight_bold.css");
-
 @import url("../blocks/photo-grid/photo-grid.css");
 @import url("../blocks/photo-grid/__item/photo-grid__item.css");
-
 @import url("../blocks/places/places.css");
 @import url("../blocks/place/place.css");
 @import url("../blocks/place/__title/place__title.css");
 @import url("../blocks/place/__image/place__image.css");
 @import url("../blocks/place/__paragraph/place__paragraph.css");
-
 @import url("../blocks/website/website.css");
 @import url("../blocks/website/__heading/website__heading.css");
 @import url("../blocks/website/__link/website__link.css");
-
 @import url("../blocks/cover/cover.css");
 @import url("../blocks/cover/__item/cover__item.css");
 @import url("../blocks/cover/__title/cover__title.css");
 @import url("../blocks/cover/__subtitle/cover__subtitle.css");
-
 @import url("../blocks/footer/footer.css");
 @import url("../blocks/footer/__links/footer__links.css");
 @import url("../blocks/footer/__link/footer__link.css");
 @import url("../blocks/footer/__author/footer__author.css");
-
-@import url("../blocks/content/__section/_mobile/content__section_mobile.css");
