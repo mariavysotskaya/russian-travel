@@ -1,0 +1,6 @@
+@media screen and (min-width: 1150px) {
+  .content__section_width_desktop {
+    padding-left: 148px;
+    padding-right: 148px;
+  }
+}

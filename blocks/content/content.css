@@ -1,0 +1,23 @@
+.content {
+  display: grid;
+  grid-template-areas:
+  "lead"
+  "intro"
+  "photo-grid"
+  "places"
+  "cover"
+  ".";
+  grid-row-gap: 92px;
+}
+
+@media screen and (max-width: 896px) {
+  .content {
+    grid-row-gap: 88px;
+  }
+}
+
+@media screen and (max-width: 544px) {
+  .content {
+    grid-row-gap: 64px;
+  }
+}

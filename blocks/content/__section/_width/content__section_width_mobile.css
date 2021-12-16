@@ -1,0 +1,6 @@
+@media screen and (max-width: 544px) {
+  .content__section_width_mobile {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+}
