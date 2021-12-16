@@ -1,4 +1,7 @@
 .page__container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
   padding: 28px 0 24px;
 }
 
