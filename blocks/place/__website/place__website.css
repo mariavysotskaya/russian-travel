@@ -1,11 +1,11 @@
-.website {
+.place__website {
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
 }
 
 @media screen and (max-width: 545px) {
-  .website {
+  .place__website {
     padding-left: 4%;
   }
 }
